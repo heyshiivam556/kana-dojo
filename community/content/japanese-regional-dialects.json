@@ -335,5 +335,12 @@
     "english": "no good",
     "region": "Kansai",
     "note": "Used for prohibition/failure. (Set 6)"
-  }
+  },
+  {
+  "dialect": "〜ばい",
+  "standardJapanese": "〜だよ",
+  "english": "sentence ending",
+  "region": "Fukuoka",
+  "note": "Assertive friendly ending. (Set 5)"
+}
 ]
